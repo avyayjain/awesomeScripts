@@ -73,3 +73,4 @@ if 'alarm' in speechinput:
     tt = tt.replace(".", "")
     tt = tt.upper()
     alarm(tt)
+
